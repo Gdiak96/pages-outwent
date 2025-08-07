@@ -1,0 +1,26 @@
+
+{
+  "stops": [
+    {
+      "day": "Day 1",
+      "title": "Jackson Hole",
+      "description": "Start your journey in the charming town of Jackson.",
+      "coordinates": [-110.7624, 43.4799],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Jackson_Hole_Wyoming_Town_Square.jpg"
+    },
+    {
+      "day": "Day 2",
+      "title": "National Elk Refuge",
+      "description": "See herds of elk in their winter habitat.",
+      "coordinates": [-110.7055, 43.5166],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/National_Elk_Refuge.jpg"
+    },
+    {
+      "day": "Day 3",
+      "title": "Old Faithful",
+      "description": "Visit the famous geyser in Yellowstone National Park.",
+      "coordinates": [-110.8292, 44.4605],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Old_Faithful_Geyser_Yellowstone_National_Park.jpg"
+    }
+  ]
+}
